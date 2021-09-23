@@ -32,6 +32,19 @@ body {
     background-size: cover;
 }
 
+.blocos-titulo {
+    position: relative;
+    float: left;
+    width: 90%;
+    height: 60px;
+    background-color: coral;
+
+    margin-top: 40%;
+    margin-left: 5%;
+
+    font-family: 'Roboto', sans-serif;
+}
+
 #bloco1 {
     background-image: url("../images/fiat-pulse.jpg");
 }
