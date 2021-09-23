@@ -27,14 +27,17 @@ body {
     float: left;
     width: 50%;
     height: 100%;
+
+    background-position: center;
+    background-size: cover;
 }
 
 #bloco1 {
-    background-color: rgb(69, 138, 0);
+    background-image: url("../images/fiat-pulse.jpg");
 }
 
 #bloco2 {
-    background-color: rgb(98, 196, 0);
+    background-image: url("../images/porshe-911.jpg");
 }
 
 .rodape {
