@@ -36,6 +36,20 @@ body {
     border-bottom: 7px solid #006dd4;
 }
 
+.menu-item-direita {
+    position: relative;
+    float: right;
+    height: 100%;
+
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+
+    padding-left: 20px;
+    padding-right: 20px;
+
+    background-color: #006dd4;
+}
+
 .site {
     position: relative;
     float: left;
