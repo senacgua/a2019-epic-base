@@ -86,7 +86,7 @@ body {
 
 #menu-idioma:hover .submenu-item {
     /* display: block; */
-    
+
     width: 180%;
     height: 300px;
 }
@@ -152,10 +152,19 @@ body {
 
 #bloco1 {
     background-image: url("../images/fiat-pulse.jpg");
+    transition: 0.2s;
+}
+
+#bloco1:hover {
+    background-image: url("../images/fiat-pulse-traseira.jpg");
 }
 
 #bloco2 {
     background-image: url("../images/porshe-911.jpg");
+}
+
+#bloco2:hover {
+    background-image: url("../images/porshe-911-traseira.jpeg");
 }
 
 .rodape {
